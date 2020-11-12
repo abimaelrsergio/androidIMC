@@ -12,8 +12,8 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     private static final String TITULO = "Índice de Massa Corpórea";
     private EditText resultadoView;
     private EditText alturaView;
-    private Button btnCalcular;
     private EditText pesoView;
+    private Button btnCalcular;
     private Button btnLimpar;
 
     @Override
