@@ -36,7 +36,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     }
 
     /**
-     * Buscar os botẽos e Associa-los com classe View.OnClickListener,
+     * Buscar os botẽos e Associa-los com a classe View.OnClickListener,
      * a qual está implementada aqui na MainActivity
      *
      */
